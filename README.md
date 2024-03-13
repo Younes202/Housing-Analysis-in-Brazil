@@ -2,7 +2,7 @@
 
 In this project, we'll delve into a dataset comprising 21,000 properties for sale in Mexico, sourced from the real estate website Properati.com. Our primary aim is to discern whether sale prices are predominantly influenced by property size or location.
 
-## Learning Objectives
+## Objectives
 
 Throughout this project, we'll develop skills in the following areas:
 
