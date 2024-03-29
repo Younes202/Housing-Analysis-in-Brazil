@@ -13,17 +13,18 @@ This project involved:
 
 ## Key Insights
 
-###              Histogram Distribution of Home Prices
-![Histogram](images/histogram_homes_prices.png)
+### Histogram Distribution of Home Prices
+<img src="images/histogram_homes_prices.png" alt="Histogram" width="400" height="300">
 
-###                 Mean Home Price by Region
-![Mean Home Price](images/plot_mean_price_region.png)
+### Mean Home Price by Region
+<img src="images/plot_mean_price_region.png" alt="Mean Home Price" width="400" height="300">
 
-###             Scatter Plot Showing Price vs Area
-![Scatter Plot](images/scatter_plot_Price_Area.png)
+### Scatter Plot Showing Price vs Area
+<img src="images/scatter_plot_Price_Area.png" alt="Scatter Plot" width="400" height="300">
 
-###      Scatter Map_box Showing the Location of Properties
-![Scatter Map_box](images/Map_box_Location.png)
+### Scatter Map_box Showing the Location of Properties
+<img src="images/Map_box_Location.png" alt="Scatter Map_box" width="400" height="300">
+
 ## Skills Developed
 
 - Data exploration and cleaning with Pandas.
