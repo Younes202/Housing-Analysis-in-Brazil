@@ -1,6 +1,7 @@
 # Housing Analysis in Mexico
 
-Welcome to my project repository for the Applied Data Science Lab at WorldQuant University! In this project, I conducted an analysis of housing trends in Mexico, exploring the impact of various factors such as size and location on real estate prices.
+Welcome to this project which involved analyzing a dataset of 21,000 properties to discern the impact of size versus location on real estate prices.
+I imported and cleansed data from a CSV file, unveiling key insights. Additionally, I explored the dataset through data visualization techniques, analyzed the relationship between home prices and area, and mapped the geographic distribution of properties.
 
 ## Project Overview
 
