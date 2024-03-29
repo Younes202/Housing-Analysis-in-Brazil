@@ -14,16 +14,16 @@ This project involved:
 ## Key Insights
 
 ### Histogram Distribution of Home Prices
-<img src="images/histogram_homes_prices.png" alt="Histogram" width="400" height="300">
+<img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
 
 ### Mean Home Price by Region
-<img src="images/plot_mean_price_region.png" alt="Mean Home Price" width="400" height="300">
+<img src="images/plot_mean_price_region.png" alt="Mean Home Price by Region" width="400" height="300">
 
-### Scatter Plot Showing Price vs Area
-<img src="images/scatter_plot_Price_Area.png" alt="Scatter Plot" width="400" height="300">
+### Scatter Plot: Price vs Area
+<img src="images/scatter_plot_Price_Area.png" alt="Scatter Plot: Price vs Area" width="400" height="300">
 
-### Scatter Map_box Showing the Location of Properties
-<img src="images/Map_box_Location.png" alt="Scatter Map_box" width="400" height="300">
+### Scatter Map: Location of Properties
+<img src="images/Map_box_Location.png" alt="Scatter Map: Location of Properties" width="400" height="300">
 
 ## Skills Developed
 
@@ -35,6 +35,6 @@ This project involved:
 
 I'm looking forward to tackling the next challenge, Project 2 on Apartment Sales in Buenos Aires!
 
-## Ask me 
+## Ask Me 
 
 Feel free to reach out if you have any questions or suggestions for improvement. Thank you for visiting my repository!
