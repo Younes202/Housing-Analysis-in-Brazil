@@ -13,16 +13,16 @@ This project involved:
 
 ## Key Insights
 
-### Histogram Distribution of Home Prices
-![Histogram](images_repo/histogram_homes_prices.png)
+###              Histogram Distribution of Home Prices
+![Histogram](images/histogram_homes_prices.png)
 
-### Mean Home Price by Region
+###                 Mean Home Price by Region
 ![Mean Home Price](images/plot_mean_price_region.png)
 
-### Scatter Plot Showing Price vs Area
+###             Scatter Plot Showing Price vs Area
 ![Scatter Plot](images/scatter_plot_Price_Area.png)
 
-### Scatter Map_box Showing the Location of Properties
+###      Scatter Map_box Showing the Location of Properties
 ![Scatter Map_box](images/Map_box_Location.png)
 ## Skills Developed
 
