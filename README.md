@@ -13,27 +13,27 @@ This project involved:
 
 ## Key Insights
 
-- Histogram Distribution of Home Prices: Visualized to understand market trends.
-- Mean Home Price by Region: Identified areas of high and low real estate values.
-- Scatter Plot Showing Price vs Area: Explored pricing dynamics.
-- Scatter Map_box Showing the Location of Properties: Visualized geographic distribution.
+### Histogram Distribution of Home Prices
+![Histogram](images_repo/histogram_homes_prices.png)
 
+### Mean Home Price by Region
+![Mean Home Price](images/plot_mean_price_region.png)
+
+### Scatter Plot Showing Price vs Area
+![Scatter Plot](images/scatter_plot_Price_Area.png)
+
+### Scatter Map_box Showing the Location of Properties
+![Scatter Map_box](images/Map_box_Location.png)
 ## Skills Developed
 
 - Data exploration and cleaning with Pandas.
 - Data visualization techniques including histograms, scatter plots, and map_box visualizations.
 - Application of data science to real estate markets.
 
-## Acknowledgments
-
-I would like to express my sincere gratitude to Nicholas Cifuentes-Goodbody for his exceptional instruction and guidance throughout this project. Your support has been invaluable.
-
 ## Next Steps
 
 I'm looking forward to tackling the next challenge, Project 2 on Apartment Sales in Buenos Aires!
 
-## Tags
-
-#AppliedDataScience #WorldQuantUniversity #HousingInMexico #DataScience
+## Ask me 
 
 Feel free to reach out if you have any questions or suggestions for improvement. Thank you for visiting my repository!
