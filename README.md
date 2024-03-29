@@ -13,10 +13,10 @@ This project involved:
 
 ## Key Insights
 
-### Histogram Distribution of Home Prices
+### hist Plot : Distribution of Home Prices
 <img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
 
-### Mean Home Price by Region
+### Bar Plot : Mean Home Price by Region
 <img src="images/plot_mean_price_region.png" alt="Mean Home Price by Region" width="400" height="300">
 
 ### Scatter Plot: Price vs Area
