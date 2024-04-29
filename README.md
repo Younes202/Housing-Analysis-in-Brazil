@@ -1,4 +1,4 @@
-# Housing Analysis in Brazil
+# Housing Analysis in Brazil 🇧🇷
 
 Welcome to this project, which involved analyzing a dataset of 21,000 properties to discern the impact of size versus location on real estate prices. I imported and cleansed data from a CSV file, unveiling key insights. Additionally, I explored the dataset through data visualization techniques, analyzed the relationship between home prices and area, and mapped the geographic distribution of properties.
 
