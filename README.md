@@ -5,16 +5,16 @@ Welcome👋, in this project, which involved analyzing a dataset of 21,000 prope
 
 ## Project Overview
 
-** Organize information using basic Python data structures **
+**Organize information using basic Python data structures**
 📊🐍
 
-** Import data from CSV files and clean it using the pandas library **
+**Import data from CSV files and clean it using the pandas library**
 📈📊🧹
 
-** Create data visualizations like scatter and box plots **
+**Create data visualizations like scatter and box plots**
 📊📉📦
 
-** Examine the relationship between two variables using correlation **
+**Examine the relationship between two variables using correlation**
 🔍📈🔄
 
 ## Key Insights
