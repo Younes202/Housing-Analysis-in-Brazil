@@ -5,12 +5,10 @@ Welcome👋, in this project, which involved analyzing a dataset of 21,000 prope
 
 ## Project Overview
 
-This project involved:
-
-- Importing and cleansing a dataset of 21,000 properties from a CSV file.
-- Exploring the dataset through data visualization techniques.
-- Analyzing the relationship between home prices and area.
-- Mapping the geographic distribution of properties.
+** Organize information using basic Python data structures **
+** Import data from CSV files and clean it using the pandas library **
+** Create data visualizations like scatter and box plots **
+** Examine the relationship between two variables using correlation **
 
 ## Key Insights
 
@@ -26,11 +24,6 @@ This project involved:
 ### Scatter Map: Location of Properties
 <img src="reports/Map_box_Location.png" alt="Scatter Map: Location of Properties" width="400" height="300">
 
-## Skills Developed
-
-- Data exploration and cleaning with Pandas.
-- Data visualization techniques including histograms, scatter plots, and map_box visualizations.
-- Application of data science to real estate markets.
 
 ## Next Steps
 
