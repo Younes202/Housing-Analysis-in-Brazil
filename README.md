@@ -5,7 +5,7 @@ Welcome👋, in this project, which involved analyzing a dataset of 21,000 prope
 
 ## Project Overview
 
-**Organize information using basic Python data structures**
+#### **Organize information using basic Python data structures**
 📊🐍
 
 **Import data from CSV files and clean it using the pandas library**
