@@ -11,7 +11,7 @@ Welcome👋, in this project, which involved analyzing a dataset of 21,000 prope
 
 - **Create data visualizations like scatter and box plots**📊📉📦
 
-- **Examine the relationship between two variables using correlation**🔍📈🔄
+- **Examine the relationship between two variables using correlation**🔍🔄
 
 
 ## Key Insights
