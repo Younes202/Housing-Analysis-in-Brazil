@@ -32,7 +32,7 @@ Welcome👋, in this project, which involved analyzing a dataset of 21,000 prope
 ## Resources
 - **[Click  here to access to the open source data from kaggle](https://www.kaggle.com/code/muhammadhafil/housing-in-buenos-aires)** 
 
-- **[Click  here to access to the coude source of the project](https://github.com/Younes202/Housing-Analysis-in-Brazil/Aires/blob/main/notebooks/project_representation.ipynb)**
+- **[Click  here to access to the code source of the project](https://github.com/Younes202/Housing-Analysis-in-Brazil/blob/main/notebooks/project_representation.ipynb)**
 
 
 ## Contact
